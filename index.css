@@ -1,0 +1,16 @@
+.c-f{
+   background-image: url(images/p1.png); 
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+}
+
+
+.bb-1{
+    background-color: orange;
+    color: white;
+    border:1px solid orange;
+}
+.boxes{
+    border-radius: 20px;
+}
