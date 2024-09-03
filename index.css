@@ -14,3 +14,12 @@
 .boxes{
     border-radius: 20px;
 }
+
+.p-c{
+   top: 66%;
+   left: 50%;
+   border: 1px solid green; 
+}
+.h-1{
+    color: #4255A4;
+}
