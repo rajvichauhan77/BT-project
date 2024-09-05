@@ -58,4 +58,27 @@
 .hover:hover{
     z-index: 10;
     text-decoration: underline;
+    
+    
 }
+
+.swiper {
+    width: 100%;
+   
+  }
+
+  .swiper-slide {
+   
+    
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+    
+    object-fit: cover;
+  }
